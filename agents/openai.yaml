@@ -1,0 +1,7 @@
+interface:
+  display_name: "WeChat Account Operator"
+  short_description: "Run a reusable public-account content workflow"
+  default_prompt: "Use $wechat-account-operator to define an account direction, find topics, draft an article, refine the layout, and prepare a WeChat-ready version."
+
+policy:
+  allow_implicit_invocation: true
