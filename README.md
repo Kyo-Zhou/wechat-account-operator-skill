@@ -2,7 +2,7 @@
 
 An open-source skill for end-to-end WeChat Official Account content operations.
 
-一个面向公众号内容运营的开源 skill，用来把“选题 -> 研究 -> 立意 -> 写稿 -> 编辑 -> 排版交接”做成可复用流程。
+一个面向公众号内容运营的开源 skill，涵盖“选题 -> 研究 -> 立意 -> 写稿 -> 编辑 -> 排版交接”流程。
 
 [Workflow Overview](https://github.com/Kyo-Zhou/wechat-official-account-workflow) | [Publishing Pair Repo](https://github.com/Kyo-Zhou/wechat-draft-publisher-skill)
 
@@ -28,7 +28,7 @@ It does not contain real publishing credentials or account-specific secrets.
 适合：
 
 - 行业研究型公众号
-- 评论 / 解读型公众号
+- 评论/解读型公众号
 - 创始人或品牌表达型公众号
 - 想把选题到成稿流程标准化的运营者
 
