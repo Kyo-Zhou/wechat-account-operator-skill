@@ -4,6 +4,8 @@ An open-source skill for end-to-end WeChat Official Account content operations.
 
 一个面向公众号内容运营的开源 skill，用来把“选题 -> 研究 -> 立意 -> 写稿 -> 编辑 -> 排版交接”做成可复用流程。
 
+[Workflow Overview](https://github.com/Kyo-Zhou/wechat-official-account-workflow) | [Publishing Pair Repo](https://github.com/Kyo-Zhou/wechat-draft-publisher-skill)
+
 This skill focuses on the editorial side of the workflow:
 
 - define account positioning
@@ -124,6 +126,13 @@ The first handles editorial quality. The second handles publishing execution.
    - article draft
    - publishing handoff package
 3. Pass the result into `wechat-draft-publisher-skill`.
+
+## Roadmap
+
+- add more article brief examples for different industries
+- add reusable benchmark-analysis prompts
+- add more explicit account-positioning worksheets
+- add a stronger article-handoff schema for downstream tools
 
 ## Open-Source Boundary
 
